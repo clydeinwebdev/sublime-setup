@@ -13,6 +13,14 @@ Activation
 4. ```Preferences``` > ```Package Settings``` > ```Boxy Theme``` > ```Activation```
 
 
-## My Setup
+## Sample Setup
 
 * [Boxy Theme](https://packagecontrol.io/packages/Boxy%20Theme)
+ * Installed Packages
+  * Boxy Theme Addon - Font Face
+  * Bracket Highlighter
+  * zz File Icons
+  * Color Highlighter
+  * Color Helper
+  * Sublime Linter
+  * Plain Tasks
